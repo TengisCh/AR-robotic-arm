@@ -6,4 +6,4 @@ In this project, Unity AR Vuforia is installed and Android app is also
 included.
 
 ![alt text](https://github.com/TengisCh/AR-robotic-arm/blob/main/Screenshot_20200622-173849.jpg?raw=true)
-![Alt text](screenshots/path/to/Screenshot_20200622-173849.jpg?raw=true "Title")
+![Alt text](screenshots/Screenshot_20200622-173849.jpg?raw=true "Title")
